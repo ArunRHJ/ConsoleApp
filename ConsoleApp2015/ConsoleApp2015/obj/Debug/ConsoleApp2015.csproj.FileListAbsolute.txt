@@ -1,0 +1,8 @@
+C:\Users\rahejaa\Desktop\Pratise\ConsoleApp2015\ConsoleApp2015\bin\Debug\ConsoleApp2015.exe.config
+C:\Users\rahejaa\Desktop\Pratise\ConsoleApp2015\ConsoleApp2015\bin\Debug\ConsoleApp2015.exe
+C:\Users\rahejaa\Desktop\Pratise\ConsoleApp2015\ConsoleApp2015\bin\Debug\ConsoleApp2015.pdb
+C:\Users\rahejaa\Desktop\Pratise\ConsoleApp2015\ConsoleApp2015\obj\Debug\ConsoleApp2015.csprojResolveAssemblyReference.cache
+C:\Users\rahejaa\Desktop\Pratise\ConsoleApp2015\ConsoleApp2015\obj\Debug\ConsoleApp2015.exe
+C:\Users\rahejaa\Desktop\Pratise\ConsoleApp2015\ConsoleApp2015\obj\Debug\ConsoleApp2015.pdb
+C:\Users\rahejaa\Desktop\Pratise\ConsoleApp2015\ConsoleApp2015\bin\Debug\log4net.dll
+C:\Users\rahejaa\Desktop\Pratise\ConsoleApp2015\ConsoleApp2015\bin\Debug\log4net.xml
