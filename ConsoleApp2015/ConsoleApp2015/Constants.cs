@@ -9,5 +9,6 @@ namespace ConsoleApp2015
     static class Constants
     {
         static public int MaxValueInLinkedListNode = 9;
+        static public int MaxValueInLinkedListNode1 = 9;
     }
 }
