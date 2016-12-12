@@ -16,6 +16,7 @@ namespace ConsoleApp2015
             int number2 = GetLinkedListNumber(list2);
 
             int difference = 0;
+            int addextra=0;
             checked
             {
                 difference = number1 >= number2 ? number1 - number2 : number2 - number1;
